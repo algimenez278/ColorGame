@@ -20,7 +20,8 @@ En cualquier caso, puedes hacer clic en todas las opciones hasta que encuentres 
 1. Selecciona el nivel de dificultad (fácil o difícil).
 2. Observa el código RGB que se muestra en la pantalla.
 3. Haz clic en las opciones de color que creas que coinciden con el código RGB.
-4. ¡Diviértete y trata de adivinar el color correcto!
+4. Podes elegir un nuevo juego (nuevos colores)
+5. ¡Diviértete y trata de adivinar el color correcto!
 
 ## Tecnologías Utilizadas
 
